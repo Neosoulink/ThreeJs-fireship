@@ -1,5 +1,5 @@
 {
-  "name": "treejs-fireship",
+  "name": "threeJs-fireship",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
@@ -8,5 +8,8 @@
   },
   "devDependencies": {
     "vite": "^2.6.4"
+  },
+  "dependencies": {
+    "three": "^0.134.0"
   }
 }
