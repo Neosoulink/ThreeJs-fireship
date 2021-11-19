@@ -1,0 +1,41 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js
+
+PATH: 
+  C:\Program Files\cmder\bin;C:\Program Files\cmder\vendor\bin;C:\Program Files\cmder\vendor\conemu-maximus5\ConEmu\Scripts;C:\Program Files\cmder\vendor\conemu-maximus5;C:\Program Files\cmder\vendor\conemu-maximus5\ConEmu;C:\Program Files\Python38\Scripts\;C:\Program Files\Python38\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\Yarn\bin\;D:\Programs\xampp\php;D:\Programs;D:\Programs\Composer;D:\Programs\Vagrant\bin;C:\Users\neoda\AppData\Local\Android\Sdk\platform-tools;C:\Program Files\Genymobile\Genymotion\tools;C:\Program Files\Git\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files (x86)\dotnet\;C:\Program Files\OpenJDK\openjdk-8u292-b10\bin;C:\Users\neoda\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Users\neoda\AppData\Local\jdk-11.0.2\bin;C:\Users\neoda\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\neoda\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\neoda\AppData\Local\Programs\Python\Python39\;C:\Users\neoda\AppData\Local\Yarn\bin;C:\Users\neoda\AppData\Roaming\Composer\vendor\bin;C:\Users\neoda\AppData\Roaming\npm;C:\Program Files (x86)\GitHub CLI\;C:\Users\neoda\AppData\Local\Microsoft\WindowsApps;C:\Ruby30-x64\bin;C:\Users\neoda\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Program Files\cmder;C:\Program Files\cmder\vendor\git-for-windows\cmd;C:\Program Files\cmder\vendor\git-for-windows\mingw64\bin;C:\Program Files\cmder\vendor\git-for-windows\usr\bin
+
+Yarn version: 
+  1.22.4
+
+Node version: 
+  14.18.1
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: unexpected end of file
+      at Zlib.zlibOnError [as onerror] (zlib.js:187:17)
+
+npm manifest: 
+  {
+    "name": "threeJs-fireship",
+    "version": "0.0.0",
+    "scripts": {
+      "dev": "vite",
+      "build": "vite build",
+      "serve": "vite preview"
+    },
+    "devDependencies": {
+      "vite": "^2.6.4"
+    },
+    "dependencies": {
+      "three": "^0.134.0"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
